@@ -10,8 +10,7 @@ You are provided with a blackbox executable that spits out an __infinite__ strea
 Run it, you should see something like this:
 ```bash
 ➜  backend-challenge git:(master) ✗ json-generator/generator-macosx-amd64
-```
-```json
+``````json
 { "event_type": "baz", "data": "amet", "timestamp": 1564039783 }
 { "event_type": "foo", "data": "lorem", "timestamp": 1564039789 }
 { "event_type": "baz", "data": "ipsum", "timestamp": 1564039789 }
