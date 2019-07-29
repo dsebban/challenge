@@ -5,12 +5,10 @@
 - Backend Engineer: check out the [backend-engineer](https://github.com/bigpandaio/challenge/tree/backend-engineer) branch of this repository.
 - Sr. DevOps Engineer: check out the [sr-devops-engineer](https://github.com/bigpandaio/challenge/tree/sr-devops-engineer) branch of this repository.
 
-# How do I submit my task?
-- Fork this repository.
-- Check out the relevant branch.
-- Commit your work.
-- Submit a pull request against this upstream repository.
+# Task Submission
 
-OR
-
-If you need to be discrete, send a mail to [challenge@bigpanda.io](mailto:challenge@bigpanda.io).
+- Fork this repo
+- Submit a PR against this repo
+- Once you done send a mail to [challenge@bigpanda.io](mailto:challenge@bigpanda.io).
+<br/>OR
+- If you need to be discrete send your solution directly to [challenge@bigpanda.io](mailto:challenge@bigpanda.io).
